@@ -1,6 +1,6 @@
 # Customer-Marketing-Analysis dashboard
 
-![Full image](Images/Full_Image.png)
+![Full image](images/Full_Image.png)
 
 ## **Problems to solve**
 
@@ -31,7 +31,7 @@
   - **Decision** : Gender Split (Male 68%, Female 32%) : Focus current campaigns on men but explore why female engagement is lower. 
 
 
-<img src="Images/Side_analysis.png" alt="Dashboard image" height= "500"/>
+<img src="images/Side_analysis.png" alt="Dashboard image" height= "500"/>
 
 ## **Top Row**
 
@@ -46,7 +46,7 @@
 
 
 
-![Insights](Images/Top_analysis.png)
+![Insights](images/Top_analysis.png)
 
 
 
@@ -60,7 +60,7 @@
 
 - **Which payment methods are linked to higher purchase amounts? (Bar Chart) →** PayPal (677) and Credit Cards (671) lead slightly over Cash (670). Debit Card, Venmo, and Bank Transfer are less used. This suggests promoting digital payment methods can align with customer preference.
 
-![Middle analysis](Images/Middle_analysis.png)
+![Middle analysis](images/Middle_analysis.png)
 
 ## **Bottom Row**
 
@@ -72,7 +72,7 @@
 - **Which locations have the highest spending? (Bar Chart by State) →** Top spenders: Montana (5.8K), Illinois (5.6K), California (5.6K). These states generate the highest purchase amounts, guiding where to focus regional campaigns.
     - **Decision** : Focus regional marketing campaigns and ads on these high-spend states
 
-![Bottom analysis](Images/Bottom_analysis.png)
+![Bottom analysis](images/Bottom_analysis.png)
 
 
 ## 🛠️ Tools & Skills Demonstrated
