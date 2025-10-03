@@ -86,4 +86,4 @@ new columns.
 
 ## 💡 Business Value
 
-This dashboard empowers businesses to know their customers, target ther rigght audience, optimize promotion, improve logistics, and focus resources on high-value areas. it enables data-driven decisions that increase sales, customer satisfaction, and profitability.
+This dashboard empowers businesses to know their customers, target their right audience, optimize promotion, improve logistics, and focus resources on high-value areas. it enables data-driven decisions that increase sales, customer satisfaction, and profitability.
