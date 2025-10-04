@@ -10,8 +10,8 @@
 4- Do customers in different seasons (Winter, Summer, etc.) purchase certain items more often?  
 5- Do customers spend more when discounts or promo codes are applied?  
 6- Which payment methods (Credit Card, PayPal, Cash, etc.) are linked to higher purchase amounts?  
- 8- Which shipping type (Express, Free Shipping, Store Pickup, etc.) is most preferred ?
- 9- What impact do subscription status have on spending?
+8- Which shipping type (Express, Free Shipping, Store Pickup, etc.) is most preferred ?  
+9- What impact do subscription status have on spending?  
 
 
 
