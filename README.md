@@ -4,13 +4,13 @@
 
 ## **Problems to solve**
 
-1- Which location have the highest spending or purchase frequency ?  
-2- do younger customers shop more frequently than older customers   
-3- how does the frequency of purchases (weekly, monthly, annually) affect overall spending?  
+1- Which location have the highest spending or purchase frequency?  
+2- Do younger customers shop more frequently than older customers?
+3- How does the frequency of purchases (weekly, monthly, annually) affect overall spending?  
 4- Do customers in different seasons (Winter, Summer, etc.) purchase certain items more often?  
 5- Do customers spend more when discounts or promo codes are applied?  
 6- Which payment methods (Credit Card, PayPal, Cash, etc.) are linked to higher purchase amounts?  
-8- Which shipping type (Express, Free Shipping, Store Pickup, etc.) is most preferred ?  
+8- Which shipping type (Express, Free Shipping, Store Pickup, etc.) is most preferred?  
 9- What impact do subscription status have on spending?  
 
 
@@ -42,7 +42,7 @@
    - **Decision** : offer sign-up discounts, bundle deals, or exclusive perks to incresase subscriber base
 
 - **How does the frequency of purchases affect overall spending? (Bar Chart) →** Customers who shop quarterly (69K) and fortnightly (65K) generate the highest spending, while weekly and monthly shoppers spend less. Suggests high-value customers shop less often but spend more per purchase.
-  - **Decision** : Encourage quarterly and fortnightly byers with loyalty rewards
+  - **Decision** : Encourage quarterly and fortnightly buyers with loyalty rewards
 
 
 
