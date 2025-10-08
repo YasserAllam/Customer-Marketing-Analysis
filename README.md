@@ -19,6 +19,8 @@
 
 ### **Left Side (KPIs & Demographics)**
 
+<img src="images/Side_analysis.png" alt="Dashboard image" height= "500"/>
+
 - **Unique Customers** (3.9K)
 → Shows the total number of individual customers in the dataset. This is a core metric of customer reach.
 
@@ -31,9 +33,10 @@
   - **Decision** : Gender Split (Male 68%, Female 32%) : Focus current campaigns on men but explore why female engagement is lower. 
 
 
-<img src="images/Side_analysis.png" alt="Dashboard image" height= "500"/>
 
 ## **Top Row**
+
+![Insights](images/Top_analysis.png)  
 
 - **Do younger customers shop more frequently than older customers? (Bar Chart by Age Bucket) →** Older customers (55–70) have the highest customer count (1178), meaning they shop more than younger age groups. So younger customers are less engaged.
    - **Decision** : Highlight comfort, quality and premium options in marketing for this age group (55+) 
@@ -46,11 +49,9 @@
 
 
 
-![Insights](images/Top_analysis.png)
-
-
-
 ## **Middle Row**
+
+![Middle analysis](images/Middle_analysis.png)  
 
 - **Do customers in different seasons purchase certain items more often? (Bar Chart with Seasonal Slicer) →** Allows filtering by season. Jackets (54) and hats (50) are the top purchased items, showing seasonal patterns in demand. Businesses can use this for seasonal promotions.
    - **Decision** : stock more items of the items thats most preferred in peak seasons, run promotions around these items
@@ -60,9 +61,11 @@
 
 - **Which payment methods are linked to higher purchase amounts? (Bar Chart) →** PayPal (677) and Credit Cards (671) lead slightly over Cash (670). Debit Card, Venmo, and Bank Transfer are less used. This suggests promoting digital payment methods can align with customer preference.
 
-![Middle analysis](images/Middle_analysis.png)
+
 
 ## **Bottom Row**
+
+![Bottom analysis](images/Bottom_analysis.png)  
 
 - **Which shipping type is most preferred ? (Line Chart) →** Free Shipping (675) is the most preferred, followed by Express (654). Premium shipping options (Next Day, 2-Day Air) have low purchase amounts. Customers strongly value free/low-cost shipping.
 
@@ -70,9 +73,8 @@
     - **Decision** : keep using discounts, but measure profitability
 
 - **Which locations have the highest spending? (Bar Chart by State) →** Top spenders: Montana (5.8K), Illinois (5.6K), California (5.6K). These states generate the highest purchase amounts, guiding where to focus regional campaigns.
-    - **Decision** : Focus regional marketing campaigns and ads on these high-spend states
+    - **Decision** : Focus regional marketing campaigns and ads on these high-spend states  
 
-![Bottom analysis](images/Bottom_analysis.png)
 
 
 ## 🛠️ Tools & Skills Demonstrated
