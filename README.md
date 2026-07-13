@@ -1,6 +1,6 @@
 # Customer-Marketing-Analysis dashboard
 
-![Full image](images/Full_Image.png)
+![Full image](images/Customer%20&%20Market%20Dashboard.png)
 
 ## **Problems to solve**
 
@@ -11,8 +11,7 @@
 5- Do customers spend more when discounts or promo codes are applied?  
 6- Which payment methods (Credit Card, PayPal, Cash, etc.) are linked to higher purchase amounts?  
 8- Which shipping type (Express, Free Shipping, Store Pickup, etc.) is most preferred?  
-9- What impact do subscription status have on spending?  
-
+9- What impact do subscription status have on spending? 
 
 
 # Insights Breakdown
